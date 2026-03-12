@@ -59,7 +59,7 @@ README.md
 
 Clone repository
 
-git clone https://github.com/YOUR_USERNAME/AI-Interview-Coach-Agent.git
+[git clone https://github.com/YOUR_USERNAME/AI-Interview-Coach-Agent.git](https://github.com/kuppilisrivyshnavi/AI-Interview-Coach-Agent.git)
 
 Install dependencies
 
